@@ -1,4 +1,4 @@
-<h1 align="center">Unofficial OpenMath</h1>
+<h1 align="center">OpenMath Unofficial</h1>
 
 ## About
 
