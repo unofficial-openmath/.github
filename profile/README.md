@@ -20,10 +20,11 @@ No member has any relation to the OpenMath society. Please refer to the official
 - [openmath-for-js](https://github.com/unofficial-openmath/openmath-for-js)
 - [openmath-for-lua](https://github.com/unofficial-openmath/openmath-for-lua)
 - [openmath-for-cpp](https://github.com/unofficial-openmath/openmath-for-cpp)
-
+-->
 ### Tools
 
-- [dicciom](https://github.com/unofficial-openmath/dicciom) - Content dictionaries manager (python)
+- [Dicciom](https://github.com/unofficial-openmath/Dicciom) - Content dictionaries manager (python)
+<!--
 - [openmath2mathml](https://github.com/unofficial-openmath/openmath2mathml) - Translate OM to MathML (javascript)
 - [openmath2latex](https://github.com/unofficial-openmath/openmath2latex) - Translate OM to LaTex (lua)
 
