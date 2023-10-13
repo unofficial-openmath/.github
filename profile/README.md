@@ -1,7 +1,7 @@
 <h1 align="center">OpenMath Unofficial</h1>
 <p align="center">
   <a href="https://github.com/unofficial-openmath/.github/wiki"><img alt="Wiki" title="Wiki" src="https://img.shields.io/badge/-wiki-365b6d?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/unofficial-openmath/discussions"><img alt="Discussions" title="Discussions" src="https://img.shields.io/badge/-discussions-365b6d?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/orgs/unofficial-openmath/discussions"><img alt="Discussions" title="Discussions" src="https://img.shields.io/badge/-discussions-365b6d?style=for-the-badge&logo=github"></a>
 </p>
 
 ## About
