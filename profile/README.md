@@ -11,6 +11,8 @@ No member has any relation to the OpenMath society. Please refer to the official
 - [OpenMath Homepage](https://openmath.org/)
 - [OpenMath GitHub Organization](https://github.com/OpenMath)
 
+***You can learn more about the OpenMath Unofficial project in the [wiki](https://github.com/unofficial-openmath/.github/wiki).***
+
 ## Projects
 
 ### Language bindings
