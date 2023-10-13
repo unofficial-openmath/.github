@@ -11,7 +11,7 @@ This group exists with two purposes:
 - To provide modern and updated tools to work with the OpenMath standard.
 - To make OpenMath more approachable as an open source project.
 
-Explore our project's documentation at the [**wiki**](https://github.com/unofficial-openmath/.github/wiki) and join discussions engage with the community at the [**discussions**](https://github.com/orgs/unofficial-openmath/discussions) section. Your insights and questions are welcome!
+Explore our project's documentation at the [**wiki**](https://github.com/unofficial-openmath/.github/wiki) and engage with the community at the [**discussions**](https://github.com/orgs/unofficial-openmath/discussions) section. Your insights and questions are welcome!
 
 *No member has any relation to the OpenMath society. Please refer to the official sources for more information about the OpenMath Standard:*
 - *[OpenMath Homepage](https://openmath.org/)*
