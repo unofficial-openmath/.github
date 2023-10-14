@@ -4,9 +4,7 @@
   <a href="https://github.com/orgs/unofficial-openmath/discussions"><img alt="Discussions" title="Discussions" src="https://img.shields.io/badge/-discussions-365b6d?style=for-the-badge&logo=github"></a>
 </p>
 
-## About
-
-This group exists with two purposes:
+OpenMath Unofficial exists with two purposes:
 
 - To provide modern and updated tools to work with the OpenMath standard.
 - To make OpenMath more approachable as an open source project.
