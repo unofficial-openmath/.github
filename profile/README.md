@@ -11,6 +11,4 @@ OpenMath Unofficial exists with two purposes:
 
 Explore our project's documentation at the [**wiki**](https://github.com/unofficial-openmath/.github/wiki) and engage with the community at the [**discussions**](https://github.com/orgs/unofficial-openmath/discussions) section. Your insights and questions are welcome!
 
-*No member has any relation to the OpenMath society. Please refer to the official sources for more information about the OpenMath Standard:*
-- *[OpenMath Homepage](https://openmath.org/)*
-- *[OpenMath GitHub Organization](https://github.com/OpenMath)*
+*No member has any relation to the OpenMath Society. Please refer to the official sources for more information about the official project:* https://openmath.org/
